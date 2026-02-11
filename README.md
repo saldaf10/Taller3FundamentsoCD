@@ -4,6 +4,11 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org/)
 
+
+## Autores
+
+Juan Pablo Rua, Pedro Saldarriaga, Juan Pablo Mejia
+
 ## 📋 Descripción del Proyecto
 
 Proyecto de análisis avanzado de datos para optimización de infraestructura crítica en **TechLogistics S.A.** mediante técnicas de:
@@ -191,26 +196,11 @@ python generate_noise.py
 
 ---
 
-## 📧 Contacto
+## ⚠️ Disclaimer
 
-Para consultas sobre este proyecto, contactar a través de:
-- **GitHub Issues:** [Abrir un issue](https://github.com/tu-usuario/Taller3FundamentsoCD/issues)
-- **Email:** tu-email@eafit.edu.co
+Este proyecto fue desarrollado con el apoyo de herramientas de inteligencia artificial, específicamente **Claude (Anthropic)**, para la estructuración del código, documentación técnica, y optimización de análisis de datos. El uso de IA como asistente de desarrollo permitió acelerar la implementación de técnicas avanzadas de ciencia de datos y garantizar mejores prácticas en la organización del proyecto.
 
----
-
-## 📄 Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
+La supervisión académica, validación de resultados, y decisiones metodológicas fueron realizadas por los estudiantes bajo la guía del profesor del curso.
 
 ---
 
-## 🏆 Reconocimientos
-
-- **Universidad EAFIT** - Programa de Ciencia de Datos
-- **Prof. Jorge Iván Padilla-Buriticá** - Supervisión académica
-- **TechLogistics S.A.** - Caso de estudio
-
----
-
-**Última actualización:** Febrero 11, 2026
