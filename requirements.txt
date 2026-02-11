@@ -1,0 +1,28 @@
+# Dependencias del Proyecto
+# Challenge 02: TechLogistics S.A.
+
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+
+# Statistical Analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+scikit-learn>=1.1.0
+
+# Network Analysis
+networkx>=2.8.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.16.0
+ipywidgets>=8.0.0
+
+# Optional: Export to PDF
+# nbconvert>=7.0.0
+# pandoc (system dependency)
